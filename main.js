@@ -22,7 +22,7 @@ const myAgeInDogYears = earlyAge + laterAge;
 
 // my name
 
-const myName = 'Pat';
+const myName = 'Pat'.toLowerCase();
 
 // output on console using backticks
 
